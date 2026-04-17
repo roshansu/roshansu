@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshansu" alt="roshansu" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **LLD and HLD**
 
 - 👨‍💻 All of my projects are available at [https://roshanportfollio.netlify.app/](https://roshanportfollio.netlify.app/)
 
