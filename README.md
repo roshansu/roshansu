@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **roshanjaiswal.bca@gmail.com**
+- 📫 How to reach me **roshanjaiswal.bca@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
